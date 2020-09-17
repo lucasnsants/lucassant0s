@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://medium.com/@lucascodejs](https://medium.com/@lucascodejs)
+- 👨‍💻 All of my projects are available at [https://lucassant0s.github.io/projects/](https://lucassant0s.github.io/projects/)
 
 - 📝 I regularly write articles on [https://medium.com/@lucascodejs](https://medium.com/@lucascodejs)
 
-- 💬 Ask me about **Lucas Nascimento Santos (@ ll_ucasn), software engineer. Student of Computer Science at Salvador University (UNIFACS). He has had skills in websites and systems on demand for over 6 years. Currently works as a software engineer for hybrid mobile devices, data mining and freelance projects. Member of the Academic Directory of Computer Science (DACC) and research group of UNIFACS GPTI (Information Technology Research Group). I have interests in the areas of machine learning, data science and data mining in which I participate in the research group. Athletes in the open hours and passionate about learning, about new technology and tendencies in the world of computing.**
+- 💬 Ask me about **Lucas Nascimento Santos (@lucascodets), software engineer. Student of Computer Science at Salvador University (UNIFACS). He has had skills in websites and systems on demand for over 6 years. Currently works as a software engineer for hybrid mobile devices, data mining and freelance projects. Member of the Academic Directory of Computer Science (DACC) and research group of UNIFACS GPTI (Information Technology Research Group). I have interests in the areas of machine learning, data science and data mining in which I participate in the research group. Athletes in the open hours and passionate about learning, about new technology and tendencies in the world of computing.**
 
 - 📫 How to reach me **business@plataformaxyz.tech**
 

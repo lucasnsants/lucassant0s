@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassant0s" alt="lucassant0s" /> </p>
 
-- 🔭 I’m currently working on **IBJJF v2 / PROTEGE SIP v2**
+- 🔭 I’m currently working on **Rethink / PROTEGE SIP v2**
 
 - 🌱 I’m currently learning **Data Engineering**
 

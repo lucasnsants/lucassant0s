@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassant0s" alt="lucassant0s" /> </p>
 
-- 🔭 I’m currently working on **Rethink / PROTEGE SIP v2**
+- 🔭 I’m currently working on *Pier**
 
 - 🌱 I’m currently learning **Data Engineering**
 
@@ -11,7 +11,18 @@
 
 - 📝 I regularly write articles on [https://medium.com/@lucascodejs](https://medium.com/@lucascodejs)
 
-- 💬 Ask me about **Lucas Nascimento Santos (@lucascodets), software engineer. Student of Computer Science at Salvador University (UNIFACS). He has had skills in websites and systems on demand for over 6 years. Currently works as a software engineer for hybrid mobile devices, data mining and freelance projects. Member of the Academic Directory of Computer Science (DACC) and research group of UNIFACS GPTI (Information Technology Research Group). I have interests in the areas of machine learning, data science and data mining in which I participate in the research group. Athletes in the open hours and passionate about learning, about new technology and tendencies in the world of computing.**
+- 💬 Ask me about
+Working for a little over 10 years in the technology area, I have worked in several areas, development of content portals, mobile applications, I had a fantastic experience as a data scientist, knowledge area that I have a huge passion for frontend and backend development.
+
+My last experiences were with high performance services development, using private and public cloud solutions, migrations and coexistence architectures of legacy systems and databases, CI/CD pipeline constructions using Jenkins , Docker and Docker Compose.
+
+As Tech Lead, I worked on the platform team of the Saúde e Odonto application at SulÁmerica, where we had responsibilities from uploading new versions to stores, standardization in development, onboarding with new members of the teams responsible for our journeys, monitoring and observability of all computers services used.
+
+As Software Engineering Specialist at Protege on the team responsible for migrating one of the company's main systems, modernizing the stack for the JavaScript/Nodejs ecosystem.
+
+I also work as a Senior Software Engineer | Tech Lead at Pier…
+
+I'm interested in machine learning, data science, data mining, devops, cloud native and more. Athletes in their spare time and passionate about learning about new technologies and trends in the computing world.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassant0s&layout=compact&hide=html" alt="lucassant0s" /></p>
 

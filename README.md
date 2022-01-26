@@ -21,7 +21,7 @@ As Tech Lead, I worked on the platform team of the Saúde e Odonto application a
 
 As Software Engineering Specialist at Protege on the team responsible for migrating one of the company's main systems, modernizing the stack for the JavaScript/Nodejs ecosystem.
 
-I also work as a Senior Software Engineer | Tech Lead at Pier…
+I also work as a Senior Software Engineer at Pier…
 
 I'm interested in machine learning, data science, data mining, devops, cloud native and more. Athletes in their spare time and passionate about learning about new technologies and trends in the computing world.
 

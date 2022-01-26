@@ -12,6 +12,7 @@
 - 📝 I regularly write articles on [https://medium.com/@lucascodejs](https://medium.com/@lucascodejs)
 
 - 💬 Ask me about
+
 Working for a little over 10 years in the technology area, I have worked in several areas, development of content portals, mobile applications, I had a fantastic experience as a data scientist, knowledge area that I have a huge passion for frontend and backend development.
 
 My last experiences were with high performance services development, using private and public cloud solutions, migrations and coexistence architectures of legacy systems and databases, CI/CD pipeline constructions using Jenkins , Docker and Docker Compose.

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Engineering/Science/Analyst**
 
-- 👨‍💻 All of my projects are available at [https://lucassant0s.github.io/projects/](https://lucassant0s.github.io/projects/)
+- 👨‍💻 All of my projects are available at [https://github.com/lucassant0s](https://github.com/lucassant0s)
 
 - 📝 I regularly write articles on [https://medium.com/@lucascodejs](https://medium.com/@lucascodejs)
 

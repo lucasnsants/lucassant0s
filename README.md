@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *Pier**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering/Science/Analyst**
 
 - 👨‍💻 All of my projects are available at [https://lucassant0s.github.io/projects/](https://lucassant0s.github.io/projects/)
 
